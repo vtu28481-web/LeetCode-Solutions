@@ -59,6 +59,7 @@ My LeetCode problem solutions in Java.
 | [0155-min-stack](https://github.com/vtu28481-web/LeetCode-Solutions/tree/main/0155-min-stack/) | Medium |
 | [0735-asteroid-collision](https://github.com/vtu28481-web/LeetCode-Solutions/tree/main/0735-asteroid-collision/) | Medium |
 | [0946-validate-stack-sequences](https://github.com/vtu28481-web/LeetCode-Solutions/tree/main/0946-validate-stack-sequences/) | Medium |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/vtu28481-web/LeetCode-Solutions/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -68,4 +69,8 @@ My LeetCode problem solutions in Java.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/vtu28481-web/LeetCode-Solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/vtu28481-web/LeetCode-Solutions/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
 <!---LeetCode Topics End-->
