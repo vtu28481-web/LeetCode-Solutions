@@ -6,6 +6,7 @@ My LeetCode problem solutions in Java.
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0155-min-stack](https://github.com/vtu28481-web/LeetCode-Solutions/tree/main/0155-min-stack/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/vtu28481-web/LeetCode-Solutions/tree/main/0933-number-of-recent-calls/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
@@ -55,6 +56,7 @@ My LeetCode problem solutions in Java.
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0155-min-stack](https://github.com/vtu28481-web/LeetCode-Solutions/tree/main/0155-min-stack/) | Medium |
 | [0735-asteroid-collision](https://github.com/vtu28481-web/LeetCode-Solutions/tree/main/0735-asteroid-collision/) | Medium |
 | [0946-validate-stack-sequences](https://github.com/vtu28481-web/LeetCode-Solutions/tree/main/0946-validate-stack-sequences/) | Medium |
 ## Simulation
