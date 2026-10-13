@@ -15,4 +15,16 @@ My LeetCode problem solutions in Java.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0933-number-of-recent-calls](https://github.com/vtu28481-web/LeetCode-Solutions/tree/main/0933-number-of-recent-calls/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/vtu28481-web/LeetCode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/vtu28481-web/LeetCode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/vtu28481-web/LeetCode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 <!---LeetCode Topics End-->
