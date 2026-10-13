@@ -18,6 +18,7 @@ My LeetCode problem solutions in Java.
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0946-validate-stack-sequences](https://github.com/vtu28481-web/LeetCode-Solutions/tree/main/0946-validate-stack-sequences/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/vtu28481-web/LeetCode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -47,4 +48,12 @@ My LeetCode problem solutions in Java.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/vtu28481-web/LeetCode-Solutions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0946-validate-stack-sequences](https://github.com/vtu28481-web/LeetCode-Solutions/tree/main/0946-validate-stack-sequences/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0946-validate-stack-sequences](https://github.com/vtu28481-web/LeetCode-Solutions/tree/main/0946-validate-stack-sequences/) | Medium |
 <!---LeetCode Topics End-->
