@@ -19,6 +19,7 @@ My LeetCode problem solutions in Java.
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0496-next-greater-element-i](https://github.com/vtu28481-web/LeetCode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0735-asteroid-collision](https://github.com/vtu28481-web/LeetCode-Solutions/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/vtu28481-web/LeetCode-Solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [0946-validate-stack-sequences](https://github.com/vtu28481-web/LeetCode-Solutions/tree/main/0946-validate-stack-sequences/) | Medium |
@@ -59,6 +60,7 @@ My LeetCode problem solutions in Java.
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/vtu28481-web/LeetCode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0155-min-stack](https://github.com/vtu28481-web/LeetCode-Solutions/tree/main/0155-min-stack/) | Medium |
+| [0496-next-greater-element-i](https://github.com/vtu28481-web/LeetCode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0735-asteroid-collision](https://github.com/vtu28481-web/LeetCode-Solutions/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/vtu28481-web/LeetCode-Solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [0946-validate-stack-sequences](https://github.com/vtu28481-web/LeetCode-Solutions/tree/main/0946-validate-stack-sequences/) | Medium |
@@ -84,5 +86,10 @@ My LeetCode problem solutions in Java.
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0496-next-greater-element-i](https://github.com/vtu28481-web/LeetCode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/vtu28481-web/LeetCode-Solutions/tree/main/0739-daily-temperatures/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0496-next-greater-element-i](https://github.com/vtu28481-web/LeetCode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 <!---LeetCode Topics End-->
