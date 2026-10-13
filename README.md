@@ -18,6 +18,7 @@ My LeetCode problem solutions in Java.
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0735-asteroid-collision](https://github.com/vtu28481-web/LeetCode-Solutions/tree/main/0735-asteroid-collision/) | Medium |
 | [0946-validate-stack-sequences](https://github.com/vtu28481-web/LeetCode-Solutions/tree/main/0946-validate-stack-sequences/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/vtu28481-web/LeetCode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Two Pointers
@@ -51,9 +52,11 @@ My LeetCode problem solutions in Java.
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0735-asteroid-collision](https://github.com/vtu28481-web/LeetCode-Solutions/tree/main/0735-asteroid-collision/) | Medium |
 | [0946-validate-stack-sequences](https://github.com/vtu28481-web/LeetCode-Solutions/tree/main/0946-validate-stack-sequences/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0735-asteroid-collision](https://github.com/vtu28481-web/LeetCode-Solutions/tree/main/0735-asteroid-collision/) | Medium |
 | [0946-validate-stack-sequences](https://github.com/vtu28481-web/LeetCode-Solutions/tree/main/0946-validate-stack-sequences/) | Medium |
 <!---LeetCode Topics End-->
