@@ -31,6 +31,7 @@ My LeetCode problem solutions in Java.
 | [0946-validate-stack-sequences](https://github.com/vtu28481-web/LeetCode-Solutions/tree/main/0946-validate-stack-sequences/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/vtu28481-web/LeetCode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/vtu28481-web/LeetCode-Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/vtu28481-web/LeetCode-Solutions/tree/main/1685-sum-of-absolute-differences-in-a-sorted-array/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -153,8 +154,13 @@ My LeetCode problem solutions in Java.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/vtu28481-web/LeetCode-Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/vtu28481-web/LeetCode-Solutions/tree/main/1685-sum-of-absolute-differences-in-a-sorted-array/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0219-contains-duplicate-ii](https://github.com/vtu28481-web/LeetCode-Solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/vtu28481-web/LeetCode-Solutions/tree/main/1685-sum-of-absolute-differences-in-a-sorted-array/) | Medium |
 <!---LeetCode Topics End-->
