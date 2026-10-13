@@ -22,6 +22,7 @@ My LeetCode problem solutions in Java.
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/vtu28481-web/LeetCode-Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vtu28481-web/LeetCode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/vtu28481-web/LeetCode-Solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0283-move-zeroes](https://github.com/vtu28481-web/LeetCode-Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0496-next-greater-element-i](https://github.com/vtu28481-web/LeetCode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0704-binary-search](https://github.com/vtu28481-web/LeetCode-Solutions/tree/main/0704-binary-search/) | Easy |
@@ -120,6 +121,7 @@ My LeetCode problem solutions in Java.
 | [0141-linked-list-cycle](https://github.com/vtu28481-web/LeetCode-Solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/vtu28481-web/LeetCode-Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/vtu28481-web/LeetCode-Solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/vtu28481-web/LeetCode-Solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/vtu28481-web/LeetCode-Solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0496-next-greater-element-i](https://github.com/vtu28481-web/LeetCode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 ## Floyd's Cycle Finding Algorithm
@@ -151,4 +153,8 @@ My LeetCode problem solutions in Java.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/vtu28481-web/LeetCode-Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0219-contains-duplicate-ii](https://github.com/vtu28481-web/LeetCode-Solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 <!---LeetCode Topics End-->
