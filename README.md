@@ -19,6 +19,7 @@ My LeetCode problem solutions in Java.
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0283-move-zeroes](https://github.com/vtu28481-web/LeetCode-Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0496-next-greater-element-i](https://github.com/vtu28481-web/LeetCode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0735-asteroid-collision](https://github.com/vtu28481-web/LeetCode-Solutions/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/vtu28481-web/LeetCode-Solutions/tree/main/0739-daily-temperatures/) | Medium |
@@ -31,6 +32,7 @@ My LeetCode problem solutions in Java.
 | [0142-linked-list-cycle-ii](https://github.com/vtu28481-web/LeetCode-Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/vtu28481-web/LeetCode-Solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/vtu28481-web/LeetCode-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0283-move-zeroes](https://github.com/vtu28481-web/LeetCode-Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/vtu28481-web/LeetCode-Solutions/tree/main/0344-reverse-string/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/vtu28481-web/LeetCode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Sorting
