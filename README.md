@@ -24,6 +24,7 @@ My LeetCode problem solutions in Java.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vtu28481-web/LeetCode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0283-move-zeroes](https://github.com/vtu28481-web/LeetCode-Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0496-next-greater-element-i](https://github.com/vtu28481-web/LeetCode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
+| [0704-binary-search](https://github.com/vtu28481-web/LeetCode-Solutions/tree/main/0704-binary-search/) | Easy |
 | [0735-asteroid-collision](https://github.com/vtu28481-web/LeetCode-Solutions/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/vtu28481-web/LeetCode-Solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [0946-validate-stack-sequences](https://github.com/vtu28481-web/LeetCode-Solutions/tree/main/0946-validate-stack-sequences/) | Medium |
@@ -141,4 +142,8 @@ My LeetCode problem solutions in Java.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/vtu28481-web/LeetCode-Solutions/tree/main/0075-sort-colors/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0704-binary-search](https://github.com/vtu28481-web/LeetCode-Solutions/tree/main/0704-binary-search/) | Easy |
 <!---LeetCode Topics End-->
