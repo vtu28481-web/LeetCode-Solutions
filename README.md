@@ -31,6 +31,7 @@ My LeetCode problem solutions in Java.
 | [0142-linked-list-cycle-ii](https://github.com/vtu28481-web/LeetCode-Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/vtu28481-web/LeetCode-Solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/vtu28481-web/LeetCode-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0344-reverse-string](https://github.com/vtu28481-web/LeetCode-Solutions/tree/main/0344-reverse-string/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/vtu28481-web/LeetCode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -92,6 +93,7 @@ My LeetCode problem solutions in Java.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/vtu28481-web/LeetCode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
+| [0344-reverse-string](https://github.com/vtu28481-web/LeetCode-Solutions/tree/main/0344-reverse-string/) | Easy |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/vtu28481-web/LeetCode-Solutions/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
