@@ -11,6 +11,7 @@ My LeetCode problem solutions in Java.
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/vtu28481-web/LeetCode-Solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0933-number-of-recent-calls](https://github.com/vtu28481-web/LeetCode-Solutions/tree/main/0933-number-of-recent-calls/) | Easy |
 ## Data Stream
 | Problem Name | Difficulty |
@@ -96,6 +97,7 @@ My LeetCode problem solutions in Java.
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/vtu28481-web/LeetCode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0344-reverse-string](https://github.com/vtu28481-web/LeetCode-Solutions/tree/main/0344-reverse-string/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/vtu28481-web/LeetCode-Solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/vtu28481-web/LeetCode-Solutions/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
@@ -112,10 +114,15 @@ My LeetCode problem solutions in Java.
 | [0141-linked-list-cycle](https://github.com/vtu28481-web/LeetCode-Solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/vtu28481-web/LeetCode-Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/vtu28481-web/LeetCode-Solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/vtu28481-web/LeetCode-Solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0496-next-greater-element-i](https://github.com/vtu28481-web/LeetCode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/vtu28481-web/LeetCode-Solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/vtu28481-web/LeetCode-Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/vtu28481-web/LeetCode-Solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
