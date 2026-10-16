@@ -92,6 +92,7 @@ My LeetCode problem solutions in Java.
 | [0104-maximum-depth-of-binary-tree](https://github.com/vtu28481-web/LeetCode-Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/vtu28481-web/LeetCode-Solutions/tree/main/0112-path-sum/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/vtu28481-web/LeetCode-Solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [1971-find-if-path-exists-in-graph](https://github.com/vtu28481-web/LeetCode-Solutions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -142,6 +143,7 @@ My LeetCode problem solutions in Java.
 | [0230-kth-smallest-element-in-a-bst](https://github.com/vtu28481-web/LeetCode-Solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vtu28481-web/LeetCode-Solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/vtu28481-web/LeetCode-Solutions/tree/main/0257-binary-tree-paths/) | Easy |
+| [1971-find-if-path-exists-in-graph](https://github.com/vtu28481-web/LeetCode-Solutions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -235,4 +237,12 @@ My LeetCode problem solutions in Java.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/vtu28481-web/LeetCode-Solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/vtu28481-web/LeetCode-Solutions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/vtu28481-web/LeetCode-Solutions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 <!---LeetCode Topics End-->
