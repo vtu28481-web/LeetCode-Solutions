@@ -78,6 +78,7 @@ My LeetCode problem solutions in Java.
 | [0144-binary-tree-preorder-traversal](https://github.com/vtu28481-web/LeetCode-Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/vtu28481-web/LeetCode-Solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/vtu28481-web/LeetCode-Solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vtu28481-web/LeetCode-Solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/vtu28481-web/LeetCode-Solutions/tree/main/0257-binary-tree-paths/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -101,6 +102,7 @@ My LeetCode problem solutions in Java.
 | [0144-binary-tree-preorder-traversal](https://github.com/vtu28481-web/LeetCode-Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/vtu28481-web/LeetCode-Solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/vtu28481-web/LeetCode-Solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vtu28481-web/LeetCode-Solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/vtu28481-web/LeetCode-Solutions/tree/main/0257-binary-tree-paths/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
@@ -133,6 +135,7 @@ My LeetCode problem solutions in Java.
 | [0144-binary-tree-preorder-traversal](https://github.com/vtu28481-web/LeetCode-Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/vtu28481-web/LeetCode-Solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/vtu28481-web/LeetCode-Solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vtu28481-web/LeetCode-Solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/vtu28481-web/LeetCode-Solutions/tree/main/0257-binary-tree-paths/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -203,4 +206,12 @@ My LeetCode problem solutions in Java.
 | ------- | ------- |
 | [0113-path-sum-ii](https://github.com/vtu28481-web/LeetCode-Solutions/tree/main/0113-path-sum-ii/) | Medium |
 | [0257-binary-tree-paths](https://github.com/vtu28481-web/LeetCode-Solutions/tree/main/0257-binary-tree-paths/) | Easy |
+## Binary Lifting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vtu28481-web/LeetCode-Solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+## Lowest Common Ancestor
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vtu28481-web/LeetCode-Solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 <!---LeetCode Topics End-->
